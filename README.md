@@ -22,7 +22,9 @@ I'm a Computer Science student from Pakistan, working with **C++** and **JavaScr
 
 
 <!--
-**muhammadali-codelab/muhammadali-codelab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**muhammadali-code## 🌐 My Portfolio
+Check out my live portfolio: [muhammadali-codelab.github.io/portfolio](https://muhammadali-codelab.github.io/portfolio/)
+## 
 
 Here are some ideas to get you started:
 
